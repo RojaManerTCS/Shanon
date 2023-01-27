@@ -6,5 +6,5 @@ public class a3 {
 		r.y();
 		
 	}
-System.out.println(r);
+System.out.println("r");
 }
